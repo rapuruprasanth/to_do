@@ -4,8 +4,8 @@ Welcome to the **To-Do List App**! 🎉
 This is a simple, elegant, and interactive application to manage your daily tasks efficiently.  
 With a **modern calendar interface** and a **fully functional task management system**, staying organized has never been easier.
 
-🌐 **Live Demo:** [https://to-do-list-livid-phi-58.vercel.app/](https://to-do-list-livid-phi-58.vercel.app/)  
-💻 **GitHub Repository:** [https://github.com/prasanthirapuru/to-do-list](https://github.com/prasanthirapuru/to-do-list)
+🌐 **Live Demo:** [https://to-do-sooty-tau.vercel.app/](https://to-do-sooty-tau.vercel.app/)  
+💻 **GitHub Repository:** [https://github.com/rapuruprasanth/to_do](https://github.com/rapuruprasanth/to_do)
 
 ---
 
